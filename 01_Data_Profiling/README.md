@@ -95,7 +95,7 @@ Compared total records and distinct IDs to better understand the structure of th
 ---
 
 ## File
-- [Project1_DataProfiling.sql]()
+- [Project1_DataProfiling.sql](https://github.com/nive710/WWI-SQL-Portfolio/blob/1e2b8781617c9ad6aa4e63fcb654b284513a5de8/01_Data_Profiling/Project1_DataProfiling.sql)
 
 ---
 
