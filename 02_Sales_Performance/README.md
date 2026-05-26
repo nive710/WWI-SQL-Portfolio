@@ -58,7 +58,7 @@ The analysis focused on these main tables:
 
 Analyzed top customers based on total revenue, order count, and items purchased.
 
-![Top Customers](screenshots/bq1_top_customers.png)
+![Top Customers](screenshots/bq1_top_customers.PNG)
 
 ---
 
@@ -66,7 +66,7 @@ Analyzed top customers based on total revenue, order count, and items purchased.
 
 Created a reusable SQL view to evaluate sales reps using revenue, orders handled, customer count, and average order metrics.
 
-![Sales Rep Performance](screenshots/bq2_salesrep_performance.png)
+![Sales Rep Performance](screenshots/bq2_salesrep_performance.PNG)
 
 ---
 
@@ -74,7 +74,7 @@ Created a reusable SQL view to evaluate sales reps using revenue, orders handled
 
 Compared top and bottom performing states using customer count, order volume, and revenue metrics.
 
-![State Revenue Ranking](screenshots/bq3_states_ranking.png)
+![State Revenue Ranking](screenshots/bq3_states_ranking.PNG)
 
 ---
 
