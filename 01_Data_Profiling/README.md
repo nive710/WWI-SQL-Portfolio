@@ -90,7 +90,7 @@ Compared total records and distinct IDs to better understand the structure of th
 ---
 
 ## Related Projects
-- [WWI Revenue & Customer Segmentation Dashboard (Power BI)](
+- [WWI Revenue & Customer Segmentation Dashboard (Power BI)](https://github.com/nive710/WWI-Power-BI-Portfolio)
 
 
 ---
