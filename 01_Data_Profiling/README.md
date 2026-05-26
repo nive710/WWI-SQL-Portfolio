@@ -95,7 +95,7 @@ Compared total records and distinct IDs to better understand the structure of th
 ---
 
 ## File
-- `Project1_DataProfiling.sql`
+- [Project1_DataProfiling.sql]()
 
 ---
 
