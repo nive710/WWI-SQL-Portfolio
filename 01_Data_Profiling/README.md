@@ -62,19 +62,19 @@ Checked row counts across key business tables to understand transaction volume a
 
 ### 2. Are there missing values in important columns?
 Reviewed critical business columns to identify null values that could affect analysis.
-![BQ1 Results](screenshots/bq2_null_analysis)
+![BQ1 Results](screenshots/bq2_null_analysis.png)
 
 ### 3. Are there duplicate primary keys?
 Validated that important ID columns such as `CustomerID` and `OrderID` were unique.
-![BQ1 Results](screenshots/bq3_duplicate_check)
+![BQ1 Results](screenshots/bq3_duplicate_check.png)
 
 ### 4. What time period does the data cover?
 Checked the earliest and latest transaction dates across operational tables.
-![BQ1 Results](screenshots/bq4_daterange_check)
+![BQ1 Results](screenshots/bq4_daterange_check.png)
 
 ### 5. How many unique entities exist in each table?
 Compared total records and distinct IDs to better understand the structure of the dataset.
-![BQ1 Results](screenshots/bq5_unique_values_check)
+![BQ1 Results](screenshots/bq5_unique_values_check.png)
 
 ---
 
