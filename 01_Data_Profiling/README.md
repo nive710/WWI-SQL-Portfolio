@@ -58,6 +58,7 @@ The analysis focused on these main tables:
 
 ### 1. How large is the dataset?
 Checked row counts across key business tables to understand transaction volume and dataset scale.
+![BQ1 Results](screenshots/bq1_table_sizes.png)
 
 ### 2. Are there missing values in important columns?
 Reviewed critical business columns to identify null values that could affect analysis.
