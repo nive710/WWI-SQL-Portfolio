@@ -90,12 +90,12 @@ Compared top and bottom performing states using customer count, order volume, an
 ---
 
 ## File
-- `Project2_SalesPerformance.sql`
+- [Project2_SalesPerformance.sql](https://github.com/nive710/WWI-SQL-Portfolio/blob/c824330860353170228044102d5ef2cd7086ea05/02_Sales_Performance/Project2_SalesPerformance.sql)
 
 ---
 
 ## Related Projects
-- WWI Revenue & Customer Segmentation Dashboard (Power BI)
+- [WWI Revenue & Customer Segmentation Dashboard (Power BI)](https://github.com/nive710/WWI-Power-BI-Portfolio)
 
 ---
 
