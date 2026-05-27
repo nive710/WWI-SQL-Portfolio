@@ -46,14 +46,12 @@ The analysis focused on these main tables:
 - Behaviour-based categorization
 
 ---
-
-## Business Questions Answered
-
+##Business Questions Answered
 ### 1. How do customer categories compare in orders and revenue?
 
 Compared customer categories using customer count, orders, revenue, and average revenue per customer.
 
-[View Screenshot](screenshots/bq1_category_summary.PNG)
+![Customer Category Summary](screenshots/bq1_category_summary.png)
 
 ---
 
@@ -61,7 +59,7 @@ Compared customer categories using customer count, orders, revenue, and average 
 
 Used ranking functions to identify the highest revenue-generating customer within each customer category.
 
-[View Screenshot](screenshots/bq2_top_customer_category.PNG)
+![Top Customer by Category](screenshots/bq2_top_customer_category.png)
 
 ---
 
@@ -69,9 +67,7 @@ Used ranking functions to identify the highest revenue-generating customer withi
 
 Created a detailed customer segmentation query based on purchasing behaviour, along with a summarized segment-level analysis showing customer count, order volume, and revenue contribution by segment.
 
-[View Screenshot](screenshots/bq3_customer_segment_summary.PNG)
-
----
+![Customer Segment Summary](screenshots/bq3_customer_segment_summary.png)
 
 ## Key Findings
 
