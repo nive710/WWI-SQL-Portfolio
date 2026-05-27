@@ -60,7 +60,7 @@ Performed exploratory data profiling and data quality checks across key WWI tabl
 - Quality assessment
 - Exploratory SQL analysis
 
-📂 Folder: `01_Data_Profiling`
+📂 Folder: [01_Data_Profiling](https://github.com/nive710/WWI-SQL-Portfolio/tree/e36f71edfaf714a82bb1c8788fd99afab5308281/01_Data_Profiling)
 
 ---
 
@@ -80,7 +80,7 @@ Analyzed customer revenue, sales representative performance, and regional sales 
 - Ranking analysis
 - Revenue analysis
 
-📂 Folder: `02_Sales_Performance`
+📂 Folder: [02_Sales_Performance](https://github.com/nive710/WWI-SQL-Portfolio/tree/e36f71edfaf714a82bb1c8788fd99afab5308281/02_Sales_Performance)
 
 ---
 
@@ -100,7 +100,7 @@ Segmented customers based on purchasing behaviour and analyzed revenue contribut
 - CTEs
 - Behaviour analysis
 
-📂 Folder: `03_Customer_Segmentation`
+📂 Folder: [03_Customer_Segmentation](https://github.com/nive710/WWI-SQL-Portfolio/tree/e36f71edfaf714a82bb1c8788fd99afab5308281/03_Customer_Segmentation)
 
 ---
 
@@ -121,7 +121,7 @@ Analyzed monthly and quarterly revenue trends to identify growth patterns, seaso
 - Trend analysis
 - Running totals
 
-📂 Folder: `04_Revenue_Trend_Analysis`
+📂 Folder: [04_Revenue_Trend_Analysis](https://github.com/nive710/WWI-SQL-Portfolio/tree/e36f71edfaf714a82bb1c8788fd99afab5308281/04_Revenue_Trend_Analysis)
 
 ---
 
