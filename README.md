@@ -15,7 +15,6 @@ The goal of this portfolio is to demonstrate practical SQL skills used in real-w
 ---
 
 ## Tools Used
-- SQL Server
 - SQL Server Management Studio (SSMS)
 - WideWorldImporters Sample Database
 
